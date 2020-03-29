@@ -4,7 +4,7 @@ pipeline {
     stages {
           stage('chiku nbkku') {
             steps {
-                echo 'Building.**************.'
+                echo 'Building.************u**.'
             }
         }
         stage('Build') {
